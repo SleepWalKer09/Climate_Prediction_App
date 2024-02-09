@@ -1,0 +1,15 @@
+# Archivos de configuración y base de datos de Airflow
+airflow/*.db
+airflow/logs/
+
+# Entorno virtual
+airflow_venv/
+*.pyc
+
+# Archivos de notebook
+*.ipynb_checkpoints
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+first.py

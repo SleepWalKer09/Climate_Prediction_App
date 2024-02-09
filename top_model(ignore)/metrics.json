@@ -1,0 +1,6 @@
+{
+    "MeanSquaredError": 53125.58203125,
+    "MeanAbsoluteError": 38.966487884521484,
+    "MeanSquaredLogarithmicError": 1.2358486652374268,
+    "RootMeanSquaredError": 230.4898681640625
+}
